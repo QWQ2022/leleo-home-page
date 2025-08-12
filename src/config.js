@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: '清枫的个人主页🎉',
+		description: '欢迎来到清枫的Website',
+		keywords: 'QingFeng,qwq2022,清枫,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	avatar: "https://avatars.githubusercontent.com/u/94837700", // 头像
+	welcometitle: "Hi, I'm QingFeng", // 标题
 
 	// 颜色配置
 	color: {
@@ -53,12 +53,9 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-github", link: "https://www.github.com/qwq2022" },
+		{ icon: "mdi-email", link: "mailto:qwq2022@outlook.com" },
+		{ icon: "mdi-qqchat", link: "https://im.qq.com/" }
 	],
 
 	//打字机
@@ -138,8 +135,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "blog", subtitle: "是blog吗？", text: "太棒了居然是blog", url: "https://wp.qwq2022.top", show: true },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "网盘", subtitle: "还有网盘吗？！", text: "只是一个临时的直链站罢了", url: "https://file.qwq2022.top", show: true },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
