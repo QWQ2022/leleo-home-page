@@ -137,7 +137,7 @@ const config = {
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "blog", subtitle: "是blog吗？", text: "太棒了居然是blog", url: "https://wp.qwq2022.top", show: true },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "网盘", subtitle: "还有网盘吗？！", text: "只是一个临时的直链站罢了", url: "https://file.qwq2022.top", show: true },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "状态！！", subtitle: "查查网站服务状态？", text: "不要再查了啊aaa", url: "https://status.qwq2022.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
